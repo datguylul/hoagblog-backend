@@ -1,0 +1,6 @@
+server:
+  host: 8080
+
+spring:
+  application:
+    name: customer

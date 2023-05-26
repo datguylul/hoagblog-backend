@@ -1,0 +1,6 @@
+server:
+  host: 8081
+
+spring:
+  application:
+    name: notification-services
